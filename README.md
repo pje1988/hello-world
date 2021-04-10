@@ -2,5 +2,3 @@
 Learning the ropes.
 
 Integrating with Jira and Jenkins.
-
-Getting there!
