@@ -1,4 +1,4 @@
 # hello-world
 Learning the ropes.
 
-Integrating with Jira and Jenkins.
+Yet another wannabe data scientist.
